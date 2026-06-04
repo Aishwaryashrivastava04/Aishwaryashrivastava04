@@ -30,6 +30,6 @@
 - Python, Pandas, Scikit-Learn
 
 ## Contact
-📧 Your Email Here
+📧 aishwaryashrivastava255@gmail.com
 
 🔗 GitHub: github.com/Aishwaryashrivastava04
