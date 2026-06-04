@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aishwarya Shree
 
-🎓 MCA Aspirant
+### MCA Aspirant | AI & ML Enthusiast | Full Stack Developer
 
 ## About Me
 - 🌱 Learning AI & Machine Learning
@@ -9,14 +9,13 @@
 - 📍 Patna, Bihar, India
 
 ## Skills
-- Python
-- JavaScript
-- HTML
-- CSS
-- React.js
-- Node.js
-- MongoDB
-- Git & GitHub
+## Tech Stack
+🐍 Python
+⚛️ React.js
+🟨 JavaScript
+🌿 MongoDB
+🟩 Node.js
+🤖 Machine Learning
 
 ## Projects
 
