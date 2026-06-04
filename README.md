@@ -6,6 +6,7 @@
 - 🌱 Learning AI & Machine Learning
 - 💻 Interested in Python, React and Full Stack Development
 - 🚀 Building Real World Projects
+- Open to Internships and Learning Opportunities
 - 📍 Patna, Bihar, India
 
 ## Skills
